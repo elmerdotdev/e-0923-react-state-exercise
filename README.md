@@ -1,6 +1,6 @@
 # E-0923 React State Exercise
 
-Create these 3 buttons in your React application. Use *useState* and *setState*. You are free to name the states whatever you like. CREATE A NEW BRANCH CALLED 'dev' OR 'develop'. DO NOT WORK ON MASTER/MAIN BRANCH.
+Create these 3 buttons in your React application. Use *useState*. You are free to name the states whatever you like. CREATE A NEW BRANCH CALLED 'dev' OR 'develop'. DO NOT WORK ON MASTER/MAIN BRANCH.
 
 **Button 1: Toggle “On/Off” the lights**
 
